@@ -16,11 +16,15 @@
 
 **Note**: This is an experimental Space for the Qwen-Image-Edit-2511 model. For more stable performance, consider the [2509 version](https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast).
 
----
-
 <img width="1418" height="773" alt="Screenshot 2025-12-27 at 21-55-31 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/11a0e2e6-61d6-40b9-9c6a-01c906912ef3" />
 
+<img width="1920" height="1265" alt="Screenshot 2025-12-27 at 21-56-42 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/426fb9f5-e983-42c8-8306-43fa3d8e248e" />
+
 ---
+
+<img width="1461" height="777" alt="Screenshot 2025-12-27 at 21-57-50 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/2a058b42-e762-406f-bf37-21bb4a3e5cab" />
+
+<img width="1920" height="1263" alt="Screenshot 2025-12-27 at 21-58-41 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/f587bac9-f7e0-48d7-850b-2fe2e661710d" />
 
 ## Prerequisites
 
