@@ -16,6 +16,12 @@
 
 **Note**: This is an experimental Space for the Qwen-Image-Edit-2511 model. For more stable performance, consider the [2509 version](https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast).
 
+---
+
+<img width="1418" height="773" alt="Screenshot 2025-12-27 at 21-55-31 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/11a0e2e6-61d6-40b9-9c6a-01c906912ef3" />
+
+---
+
 ## Prerequisites
 
 - Python 3.10 or higher.
